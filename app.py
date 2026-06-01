@@ -320,7 +320,7 @@ with p1:
 
     <br><br>
 
-    <a href="https://aegqkbatupkj8gec5yurqn.streamlit.app/"
+    <a href="https://securetodolistapp.streamlit.app/"
     target="_blank"
     class="project-btn">
 
