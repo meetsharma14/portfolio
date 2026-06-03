@@ -42,8 +42,8 @@ SKILLS = [
 EXPERIENCE = [
     {
         "role": "Python Intern",
-        "org": "Industry internship",
-        "period": "2024 – Present",
+        "org": "Ethereal Softech Pvt. Ltd.",
+        "period": "MAY,2026 – Present",
         "points": [
             "Built data pipelines and automation scripts with Python.",
             "Worked with APIs, file handling, and reporting workflows.",
