@@ -66,7 +66,7 @@ PROJECTS = [
             "SQLite persistence, priority filters, and per-user task lists."
         ),
         "tech": "Python · Streamlit · SQLite · bcrypt",
-        "demo": "https://portfolio-meetsharma.streamlit.app/",
+        "demo": "https://securetodolistapp.streamlit.app/",
         
     },
 
