@@ -60,7 +60,7 @@ EDUCATION = [
 ]
 PROJECTS = [
     {
-        "title": "Coding Context Platfrom",
+        "title": "Coding Contest Platfrom",
         "description": (
             "Real-time coding contest platform with secure authentication, problem management, submissions, and leaderboards., "
             "It provides secure login, problem management, submissions, and leaderboards."
