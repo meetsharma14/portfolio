@@ -62,10 +62,10 @@ PROJECTS = [
     {
         "title": "Coding Context Platfrom",
         "description": (
-            "Coding Contest Platform is a web application for hosting coding contests, solving programming challenges, and tracking rankings, "
+            "Real-time coding contest platform with secure authentication, problem management, submissions, and leaderboards., "
             "It provides secure login, problem management, submissions, and leaderboards."
         ),
-        "tech": "Streamlit · Python · Requests · Requests · Pandas · Backend · FastAPI · REST APIs · Uvicorn · SQLite · SQLAlchemy · JWT Authentication",
+        "tech": "Python • FastAPI • Streamlit • SQLite • SQLAlchemy • JWT",
         "demo": "https://condingcontextplatform.streamlit.app/",
         
     },
