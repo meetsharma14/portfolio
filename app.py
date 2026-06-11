@@ -60,7 +60,18 @@ EDUCATION = [
 ]
 PROJECTS = [
     {
-        "title": "✅ Todo Pro",
+        "title": "Coding Context Platfrom",
+        "description": (
+            "Coding Contest Platform is a web application for hosting coding contests, solving programming challenges, and tracking rankings, "
+            "It provides secure login, problem management, submissions, and leaderboards."
+        ),
+        "tech": "Streamlit · Python · Requests · Requests · Pandas · Backend · FastAPI · REST APIs · Uvicorn · SQLite · SQLAlchemy · JWT Authentication",
+        "demo": "https://condingcontextplatform.streamlit.app/",
+        
+    },
+
+    {
+        "title": "Todo Pro",
         "description": (
             "Full-stack style task manager with login/register, bcrypt password hashing, "
             "SQLite persistence, priority filters, and per-user task lists."
