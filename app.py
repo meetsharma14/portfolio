@@ -20,9 +20,9 @@ PROFILE = {
     "location": "India",
 }
 METRICS = [
-    ("5+", "Projects", "🚀"),
-    ("15+", "Skills", "💻"),
-    ("3", "Internships", "🏢"),
+    ("5+", "Projects", ""),
+    ("15+", "Skills", ""),
+    ("3", "Internships", ""),
 ]
 SKILLS = [
     "Java",
@@ -84,7 +84,7 @@ PROJECTS = [
     },
 
     {
-        "title": "📄 ATS Resume Checker",
+        "title": "ATS Resume Checker",
         "description": (
             "ATS resume analyzer comparing resumes to job descriptions via keyword extraction "
             "and cosine similarity. Supports PDF/DOCX with ranking and missing keywords."
@@ -94,7 +94,7 @@ PROJECTS = [
         "github": None,
     },
     {
-        "title": "💰 EMI Calculator",
+        "title": "EMI Calculator",
         "description": (
             "Desktop app calculating loan EMI from user inputs using standard financial formulas."
         ),
@@ -103,7 +103,7 @@ PROJECTS = [
         "github": None,
     },
     {
-        "title": "✈ Travel Booking System",
+        "title": "Travel Booking System",
         "description": (
             "Console booking system with structured workflows, REST integration, and JSON handling."
         ),
