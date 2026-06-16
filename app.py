@@ -32,7 +32,7 @@ SKILLS = [
     "Streamlit",
     "SQLite",
     "MySQL",
-    "Scikit learn,
+    "Scikit learn",
     "Power BI",
     "Pandas",
     "NumPy",
