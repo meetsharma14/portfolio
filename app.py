@@ -27,10 +27,12 @@ METRICS = [
 SKILLS = [
     "Java",
     "Python",
+    "R",
     "FastAPI",
     "Streamlit",
     "SQLite",
     "MySQL",
+    "Scikit learn,
     "Power BI",
     "Pandas",
     "NumPy",
