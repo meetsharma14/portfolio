@@ -20,8 +20,8 @@ PROFILE = {
     "location": "India",
 }
 METRICS = [
-    ("4+", "Projects", "🚀"),
-    ("13+", "Skills", "💻"),
+    ("5+", "Projects", "🚀"),
+    ("15+", "Skills", "💻"),
     ("3", "Internships", "🏢"),
 ]
 SKILLS = [
