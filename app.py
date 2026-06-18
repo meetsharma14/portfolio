@@ -21,7 +21,7 @@ PROFILE = {
 }
 METRICS = [
     ("6+", "Projects", ""),
-    ("15+", "Skills", ""),
+    ("16+", "Skills", ""),
     ("3", "Internships", ""),
 ]
 SKILLS = [
@@ -32,6 +32,7 @@ SKILLS = [
     "Streamlit",
     "SQLite",
     "MySQL",
+    "Flask",
     "Scikit learn",
     "Power BI",
     "Pandas",
