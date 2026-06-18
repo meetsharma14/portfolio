@@ -94,6 +94,16 @@ PROJECTS = [
         "github": None,
     },
     {
+        "title": "Sports Odds Analyzer",
+        "description": (
+            "This project fetches live football betting odds from The Odds API, compares bookmaker odds, and displays the best available odds for each team."
+            "Real-time sports betting odds analyzer built using Python and Flask."
+        ),
+        "tech": "Python · Flask · Requests · Gunicorn · REST API",
+        "demo": None,
+        "github": None,
+    },
+    {
         "title": "EMI Calculator",
         "description": (
             "Desktop app calculating loan EMI from user inputs using standard financial formulas."
