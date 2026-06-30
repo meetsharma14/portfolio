@@ -63,6 +63,18 @@ EDUCATION = [
 ]
 PROJECTS = [
     {
+        "title": "AI-Code-reviewer",
+        "description": (
+            "AI Code Reviewer is a Python-based code analysis application that automatically reviews Python code for syntax issues, complexity, possible bugs, security vulnerabilities, and code quality., "
+            "It combines static code analysis, machine learning, and a web-based interface to provide instant code review feedback."
+        ),
+        "tech": "Python • FastAPI • Streamlit • Radon  • Bandit  • Scikit-learn • Joblib ",
+        "demo": " https://ai-code-reviewer-meet.streamlit.app/",
+        "backend": " https://ai-code-reviewer-gscg.onrender.com/"
+        
+    },
+
+    {
         "title": "Coding Contest Platfrom",
         "description": (
             "Real-time coding contest platform with secure authentication, problem management, submissions, and leaderboards., "
