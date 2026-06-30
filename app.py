@@ -20,8 +20,8 @@ PROFILE = {
     "location": "India",
 }
 METRICS = [
-    ("6+", "Projects", ""),
-    ("16+", "Skills", ""),
+    ("7+", "Projects", ""),
+    ("18+", "Skills", ""),
     ("3", "Internships", ""),
 ]
 SKILLS = [
@@ -34,6 +34,8 @@ SKILLS = [
     "MySQL",
     "Flask",
     "Scikit learn",
+    "Radon",
+    "Bandit",
     "Power BI",
     "Pandas",
     "NumPy",
