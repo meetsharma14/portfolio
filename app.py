@@ -20,8 +20,8 @@ PROFILE = {
     "location": "India",
 }
 METRICS = [
-    ("7+", "Projects", ""),
-    ("18+", "Skills", ""),
+    ("8+", "Projects", ""),
+    ("19+", "Skills", ""),
     ("3", "Internships", ""),
 ]
 SKILLS = [
@@ -32,6 +32,7 @@ SKILLS = [
     "Streamlit",
     "SQLite",
     "MySQL",
+    "PostgreSQL",
     "Flask",
     "Scikit learn",
     "Radon",
@@ -64,6 +65,16 @@ EDUCATION = [
     },
 ]
 PROJECTS = [
+        {
+        "title": "Campus Placement Management System",
+        "description": (
+            "A full-stack web application built to streamline campus recruitment by connecting Students, Companies, and Placement Officers on a single platform."
+        ),
+        "tech": "Python • FastAPI • Streamlit • PostgreSQL • SQLAlchemy • JWT • Passlib (Argon2)",
+        "demo": "https://campus-placement-management-system-mvyk3pwn2rgcovf3mxcbxx.streamlit.app",
+        "backend": "https://campus-placement-management-system-ui9r.onrender.com",
+        
+    },
     {
         "title": "AI-Code-reviewer",
         "description": (
